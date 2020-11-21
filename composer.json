@@ -1,5 +1,5 @@
 {
-  "name": "roots/wp-h5bp-htaccess",
+  "name": "k-org/h5bp-htaccess",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "HTML5 Boilerplate's .htaccess for WordPress",
@@ -25,6 +25,6 @@
   },
   "require": {
     "php": ">=5.4.0",
-    "composer/installers": "~1.0.12"
+    "composer/installers": "~1.9"
   }
 }
